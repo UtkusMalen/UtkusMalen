@@ -54,7 +54,6 @@ $ neofetch
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="36" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo"  />
 </div>
 
 ###
