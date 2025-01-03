@@ -22,3 +22,7 @@ $ neofetch
   |  |  |  |(_(  |  |  (( |  |  |  |  |  |  |     Email: bozhak.ostap@gmail.com 
   |  |  |  |  |  |  |  |\)|  |  |  |  |  |  |     Discord: Utkus0      
 ```
+
+### 🐍 Contribution Snake
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/UtkusMalen/UtkusMalen/output/github-contribution-grid-snake.svg)
