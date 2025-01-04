@@ -53,6 +53,6 @@ $ neofetch
 
 ###
 
-//<img src="https://raw.githubusercontent.com/UtkusMalen/UtkusMalen/output/snake.svg" alt="Snake animation" />
+<!--><img src="https://raw.githubusercontent.com/UtkusMalen/UtkusMalen/output/snake.svg" alt="Snake animation" /><-->
 
 ###
