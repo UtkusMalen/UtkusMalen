@@ -4,7 +4,7 @@ $ neofetch
             *     ,MMM8&&&.            *          UtkusMalen@github.com
                   MMMM88&&&&&    .                ----------------------
                  MMMM88&&&&&&&                    Uptime: 17 years 
-     *           MMM88&&&&&&&&                    Programming language: Python, JavaScript
+     *           MMM88&&&&&&&&                    Programming language: Python, Java
                  MMM88&&&&&&&&                    Language: Ukrainian - native, English - B1
                  'MMM88&&&&&&'                    Front-End Technologies: HTML, CSS
                    'MMM8&&&'      *               OS: Ubuntu 24.10
